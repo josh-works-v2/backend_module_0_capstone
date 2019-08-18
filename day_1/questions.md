@@ -2,6 +2,12 @@
 
 1. How would you print the string `"Hello World!"` to the terminal?
 
+answer: I would use
+
+```ruby
+puts "hello world!"
+```
+
 1. What is the character you would use to indicate comments in a ruby file?
 
 1. Explain the difference between an integer and a float?
